@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MessageReciver\\MessageReciver.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MessageSender\\MessageSender.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
